@@ -14,7 +14,7 @@ def caesar_cipher_decrypt(text, shift):
     return caesar_cipher_encrypt(text, -shift)
 
 
-if name == "main":
+if __name__ == "__main__":
     print(" choice the operation :")
     print("1: Encrypt")
     print("2:  Decrypt")
