@@ -6,28 +6,28 @@ A cross-platform mobile application built using Flutter that implements and demo
 ## **Features**
 The app showcases the following cryptographic techniques:  
 
-1. **Monoalphabetic Cipher**  
+1. **Monoalphabetic Cipher**  desha
    - Encrypt and decrypt text using a fixed substitution alphabet.
 
-2. **Hill Cipher**  
+2. **Hill Cipher**  desha
    - Utilize matrix-based encryption and decryption.
 
-3. **Rail Fence Cipher**  
+3. **Rail Fence Cipher**  ramzy
    - Visualize the zigzag pattern of this transposition cipher.
 
-4. **Row-Column Transposition Cipher**  
+4. **Row-Column Transposition Cipher**  wafaa
    - Understand how rearranging rows and columns secures messages.
 
-5. **One-Time Pad**  
+5. **One-Time Pad**  ramzy
    - Explore perfect secrecy using a unique random key for encryption.
 
-6. **Polyalphabetic Cipher**  
+6. **Polyalphabetic Cipher**  wafaa
    - Implement and learn the multi-alphabet substitution cipher.
 
-7. **Caesar Cipher**  
+7. **Caesar Cipher**  joe
    - Shift letters by a fixed number of positions to encrypt messages.
 
-8. **Playfair Cipher**  
+8. **Playfair Cipher**  joe
    - Understand how this digraph substitution cipher works.
 
 ---
